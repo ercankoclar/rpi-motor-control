@@ -15,3 +15,10 @@ This repository contains the commands, source codes, and circuit schematics used
 - Episode 01: Raspberry Pi OS installation, Wi-Fi and SSH setup
 - Episode 02: Motor driver connections (schematic / wiring)
 - Episode 03: PWM control codes
+
+
+## 🎬  YouTube Videoları
+
+### Bölüm 1 – OS Kurulumu, WiFi & SSH
+[![YouTube Video](https://i9.ytimg.com/vi/nQsEsDezThc/mqdefault.jpg?v=694fe16a&sqp=CJzrv8oG&rs=AOn4CLCEFK-z9Du0YhRRnBU-5nTk-6O_6g)](https://www.youtube.com/watch?v=nQsEsDezThc)
+
