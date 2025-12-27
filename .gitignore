@@ -1,0 +1,12 @@
+# Video dosyaları
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.MTS
+
+# Ses dosyaları
+*.WAV
+
+# Düzenleme Dosyaları
+*.kdenlive
