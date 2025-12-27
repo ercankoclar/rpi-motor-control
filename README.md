@@ -8,10 +8,10 @@ Bu repo, YouTube'da yayınlanan Raspberry Pi + SSH + Motor Kontrol serisinin kom
 
 
 
-#Raspberry Pi Motor Control Series
+# Raspberry Pi Motor Control Series
 This repository contains the commands, source codes, and circuit schematics used in the Raspberry Pi + SSH + Motor Control series published on YouTube.
 
-#Episodes
+## Episodes
 - Episode 01: Raspberry Pi OS installation, Wi-Fi and SSH setup
 - Episode 02: Motor driver connections (schematic / wiring)
 - Episode 03: PWM control codes
