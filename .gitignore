@@ -10,3 +10,20 @@
 
 # Düzenleme Dosyaları
 *.kdenlive
+
+# Büyük dosyalar
+raw/
+video/
+recordings/
+Video_Materyal/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Derleme
+build/
+*.o
+*.elf
+
+
