@@ -19,9 +19,8 @@ This repository contains the commands, source codes, and circuit schematics used
 
 ## 🎬  YouTube Videoları
 
-### Bölüm 1 – OS Kurulumu, WiFi & SSH
-[![YouTube Video](https://i9.ytimg.com/vi/nQsEsDezThc/mqdefault.jpg?v=694fe16a&sqp=CJzrv8oG&rs=AOn4CLCEFK-z9Du0YhRRnBU-5nTk-6O_6g)](https://www.youtube.com/watch?v=nQsEsDezThc)
+### [Bölüm 1 – OS Kurulumu, WiFi & SSH](https://www.youtube.com/watch?v=nQsEsDezThc)
 
-### Bölüm 2 - Pi ve L298N Bağlantı & Kablolama
+### [Bölüm 2 - Pi ve L298N Bağlantı & Kablolama](https://www.youtube.com/watch?v=xPfAOE4aU1M)
 
 ### Bölüm 3 - Kodlama ve PWM 
