@@ -1,7 +1,8 @@
-# Bölüm 03 – PWM Kontrol / PIGPIO Kütüphanesi Kurulumu / Visual Studio Code SSH Entegrasyonu / Dc Motor Kontrol
-Bu bölümde bölümde raspberyy pi içerisine pin kontrolü için PIGPIO kütüphanesi kurulur, Visual Studio ile SSH entegrasyonu sağlanarak kodların VS Code içerisinde yazılıp derlenmesi sağlanır, DC motor kontrol edilir.
--Son bölümdür
+# Section 03 – PWM Control / PIGPIO Library Installation / Visual Studio Code SSH Integration / DC Motor Control
+In this section, the PIGPIO library is installed on the Raspberry Pi for pin control, SSH integration with Visual Studio Code is configured to allow writing and compiling code directly within VS Code, and DC motor control is performed.
+– This is the final section.
 
-## Dosyalar
-- `commands.md`: Videoda kullanılan komutlar
-- `pwm.c` : Videoda yazılan motor sürmeyen yarayan C kodudur
+## Files
+* `commands.md`: Commands used in the video
+* `pwm.c`: The C source code used in the video for DC motor control
+

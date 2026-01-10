@@ -1,5 +1,3 @@
-# Bölüm 01 – Raspberry Pi OS Kurulumu, Wi-Fi ve SSH
-Bu bölümde Raspberry Pi OS imajı hazırlanır, ilk açılış yapılır, Wi-Fi yapılandırması yapılır ve SSH erişimi aktif edilir.
+**Section 01 – Raspberry Pi OS Installation, Wi-Fi, and SSH Setup**
+In this section, the Raspberry Pi OS image is prepared, the initial boot is performed, Wi-Fi is configured, and SSH access is enabled.
 
-## Dosyalar
-- `commands.md`: Videoda kullanılan komutlar ve kısa notlar

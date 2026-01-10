@@ -1,17 +1,17 @@
-# Bölüm 01 – OS / Wi-Fi / SSH
-Bölüm 1 de kullanılan komutlar burada yer alır
+# Bölüm 01 – OS / Wi-Fi / SSH | Section 01 – OS / Wi-Fi / SSH
+Bölüm 1 de kullanılan komutlar burada yer alır | The commands used in Section 01 are listed here.
 
-## Font  Komutları 
+## Font  Komutları | Font Commands
 ```bash
 sudo dpkg-reconfigure console-setup
 ```
-## Wifi Komutları
+## Wifi Komutları | Wi-Fi Commands
 ```bash
 sudo nmcli dev wifi rescan
 nmcli dev wifi list
 sudo nmcli dev wifi connect "SSID_ADI" password "SIFRE" ifname wlan0
 ```
-## SSH Komutları
+## SSH Komutları | SSH Commands
 ```bash
 sudo systemctl enable --now ssh 
 ssh-keygen -t ed25519 -a 64 -f ~/.ssh/pi_ed25519
@@ -19,7 +19,7 @@ cat ~/.ssh/pi_video.pub | ssh -o IdentitiesOnly=yes ercankoclar@192.168.1.12 "mk
 ssh -o IdentitiesOnly=yes -i ~/.ssh/pi_video ercankoclar@192.168.1.12
 sudo nano /etc/ssh/sshd_config 
 ```
-## Aşağıdaki ayarlar bulunup aynısı yapılır 
+## Aşağıdaki ayarlar bulunup aynısı yapılır | The following settings are located and applied exactly as shown
   -  PubkeyAuthentication yes
   -  PasswordAuthentication no
   -  KbdInteractiveAuthentication no
@@ -27,3 +27,13 @@ sudo nano /etc/ssh/sshd_config
 ```bash
 sudo systemctl restart ssh 
 ```
+
+
+
+
+
+
+
+
+
+
